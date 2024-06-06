@@ -1,3 +1,5 @@
+// Made by Danish 
+
 import inquirer from 'inquirer';
 
 type Choice = 'rock' | 'paper' | 'scissors';
